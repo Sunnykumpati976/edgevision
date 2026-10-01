@@ -56,7 +56,7 @@ This is not a model training project — it is an **MLOps and deployment** proje
 
 ### Launch the full stack
 ```bash
-git clone https://github.com/YOUR_USERNAME/edgevision.git
+git clone https://github.com/Sunnykumpati976/edgevision.git
 cd edgevision
 docker-compose up --build
 ```
